@@ -1,6 +1,5 @@
-# string
-# string program
---------------------------------------------------------------
+//# string
+//# string program
 import java.util.*;
 
 public class abcd
